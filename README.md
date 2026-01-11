@@ -1,17 +1,16 @@
 # 👋 Hi, I'm **letmeburn**
-> Python | Arch btw | Wibu ⚔️
+> Python Expert 🐍 | Arch btw 🐧 | Wibu ⚔️
 
 <p align="center">
-  <img src="https://media.tenor.com/1Jq0dQZQ5JgAAAAC/fate-series-saber.gif" alt="Fate Saber GIF" width="200px" />
+  <img src="https://media.giphy.com/media/3ohs4mJT1dPNqbDcR2/giphy.gif" alt="Fate Saber GIF" width="200px" />
 </p>
-> *Fate Series vibes neko~* :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🧠 About Me
-Aku adalah seorang **Python Developer** yang fokus ke clean, efficient, scalable code — plus otomatisasi dan scripting.  
-Always on **Arch Linux (btw)** ⚡  
-Wibu sejati yang tumbuh dengan anime, game, dan budaya Jepang.
+Aku seorang **Python Developer** yang fokus ke clean code, scripting, dan otomatisasi.  
+Main daily‑driver **Arch Linux (btw)** ⚡  
+Wibu sejati yang suka **Fate Series** & anime‑anime keren lainnya.
 
 ---
 
@@ -26,10 +25,10 @@ Wibu sejati yang tumbuh dengan anime, game, dan budaya Jepang.
 | SQL | ⭐⭐ |
 
 ### 🛠 Tools
-- Arch Linux (daily driver)
+- Arch Linux
 - Git & GitHub
-- Neovim & VS Code
-- Docker (hk)
+- Neovim / VS Code
+- Docker
 
 ---
 
@@ -49,25 +48,9 @@ Wibu sejati yang tumbuh dengan anime, game, dan budaya Jepang.
 
 ---
 
-## 📌 Currently Getting Better At
-- System‑level Python internals
-- Linux tooling & scripting
-- Backend architecture
-- Design patterns & clean code
-
----
-
-## ⚔️ Anime & Wibu Life
-Fate Series (UBW / HF / Zero) masih jadi favorit 🗡️  
-Anime lain yang kuikuti:
-- Steins;Gate
-- Monogatari Series
-- Mushoku Tensei
-
----
-
 ## 💬 Contact
 📫 GitHub: https://github.com/letmeburn  
-📬 Always open to collabs & chat (issues / PR welcome) 😄
+📬 Collabs & Issues welcome 😄
 
-> 「人は剣を振るために生まれたのだ。」— Saber 🗡️
+> **「人は剣を振るために生まれたのだ。」— Saber**  
+> (You were born to wield the sword.)  
